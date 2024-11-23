@@ -184,7 +184,7 @@ mentionedJid: [m.sender],
 externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
-title: `Made by Anggazyy Developer`,
+title: `Made by Suryatzyy Developer`,
 body: `🔴 Active : ${runtime(process.uptime())}`,
 previewType: "VIDEO",
 thumbnail: randomImageUrl,
